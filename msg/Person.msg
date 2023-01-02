@@ -1,2 +1,2 @@
-string you
-uint8 cpu
+string name 
+uint8 age
